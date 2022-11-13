@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que ibas a decir que sii  bebecita uwu❤️❤️ https://www.youtube.com/watch?v=FjAe4BTegho')
+    alert('Sabia que ibas a decir que sii  bebecita uwu❤️❤️')
 });
 
 const noBtn = document.querySelector('#noBtn');
